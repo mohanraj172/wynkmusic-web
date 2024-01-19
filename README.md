@@ -1,2 +1,2 @@
 # wynkmusic-web
-can you view netlify link: https://nimble-toffee-cad8d8.netlify.app
+can you view netlify link:marvelous-sundae-a5e5fa.netlify.app
